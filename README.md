@@ -21,7 +21,7 @@ Stock Prediction Dashboard is a modern React application that uses machine learn
 
 ## 🚀 Demo
 
-Check out the live demo: [Stock Prediction Dashboard]()
+Check out the live demo: [Stock Prediction Dashboard](https://ai-stock-predictions.netlify.app/)
 
 
 
