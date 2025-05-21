@@ -1,0 +1,48 @@
+
+.predictor-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #1e1e2f;
+  color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #0ff;
+  font-family: Arial, sans-serif;
+}
+
+.input-area {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background: #2d2d3f;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.predict-button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #00c2ff;
+  border: none;
+  color: #000;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.predict-button:hover {
+  background-color: #009ecc;
+}
+
+.error {
+  color: #ff4f4f;
+  margin-top: 10px;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
